@@ -1,6 +1,7 @@
 require "net/http"
 require "enumerator"
 
+# https://gist.github.com/tomlea/207884/fe11f787f30702556957c5a898ee96ea4a989cb5
 # Example Usage:
 #
 # use Rack::Proxy do |req|
